@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-Descriptin for this project - მოკლე
+Descriptin for this project! - მოკლე
